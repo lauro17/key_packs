@@ -3,21 +3,21 @@
     "id": "default_pack",
     "name": "Pacote Padrão",
     "desc": "Os sons originais do KeySound, incluindo o default.wav clássico.",
-    "url": "https://github.com/lauro17/key/blob/main/packs/default.zip",
+    "url": "https://github.com/lauro17/key_packs/blob/master/blue.zip",
     "author": "Lauro17"
   },
   {
     "id": "mechanical_blue",
     "name": "Cherry MX Blue",
     "desc": "O clique característico e tátil dos switches azuis mais famosos.",
-    "url": "https://github.com/lauro17/key/blob/main/packs/blue.zip",
+    "url": "https://github.com/lauro17/key_packs/blob/master/blue.zip",
     "author": "Lauro17"
   },
   {
     "id": "retro_typewriter",
     "name": "Máquina de Escrever",
     "desc": "Sons pesados de metal e retorno de carro para uma escrita nostálgica.",
-    "url": "https://github.com/lauro17/key/blob/main/packs/retro.zip",
+    "url": "https://github.com/lauro17/key_packs/blob/master/retro.zip",
     "author": "Lauro17"
   }
 ]
